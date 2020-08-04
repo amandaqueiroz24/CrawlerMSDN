@@ -1,0 +1,14 @@
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\bin\Debug\CrawlerMsdn.exe.config
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\bin\Debug\CrawlerMsdn.exe
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\bin\Debug\CrawlerMsdn.pdb
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\obj\Debug\CrawlerMsdn.csprojAssemblyReference.cache
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\obj\Debug\CrawlerMsdn.Form1.resources
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\obj\Debug\CrawlerMsdn.Properties.Resources.resources
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\obj\Debug\CrawlerMsdn.csproj.GenerateResource.cache
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\obj\Debug\CrawlerMsdn.csproj.CoreCompileInputs.cache
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\obj\Debug\CrawlerMsdn.csproj.CopyComplete
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\obj\Debug\CrawlerMsdn.exe
+C:\Users\Amanda Queiroz Nunes\source\repos\CrawlerMsdn\CrawlerMsdn\obj\Debug\CrawlerMsdn.pdb
